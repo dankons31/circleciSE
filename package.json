@@ -1,0 +1,21 @@
+{
+  "name": "puppeteer",
+  "version": "1.0.0",
+  "description": "demo circleci",
+  "main": "demo.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "testing",
+    "circleci",
+    "with",
+    "demo",
+    "test"
+  ],
+  "author": "Dan",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.7.1"
+  }
+}
